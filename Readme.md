@@ -9,3 +9,5 @@ Day 2 - Java Basics, Comments, DataTypes, TypeConversion - Explicit, Implicit, U
 Day 3 - Operations in Java(Arithmatic, Logical, Relational)
 
 Day 4 - Decimal to Binary, Binary to Decimal Conversion
+
+Day 5 - Loops in Java
