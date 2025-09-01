@@ -11,3 +11,5 @@ Day 3 - Operations in Java(Arithmatic, Logical, Relational)
 Day 4 - Decimal to Binary, Binary to Decimal Conversion
 
 Day 5 - Loops in Java
+
+Day 6 - Patterns Exercise
