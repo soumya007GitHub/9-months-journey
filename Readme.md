@@ -13,3 +13,5 @@ Day 4 - Decimal to Binary, Binary to Decimal Conversion
 Day 5 - Loops in Java
 
 Day 6 - Patterns Exercise
+
+Day 7 - Covered Patterns Logic, Refer 007 - Patterns folder to see theory in Readme
