@@ -16,10 +16,10 @@ Day 6 - Patterns Exercise
 
 Day 7 - Covered Patterns Logic, Refer 007 - Patterns folder to see theory in Readme
 
-Day 8 - Functions
-📌 Actual Parameters - Passed during function call
-📌 Formal Parameters - Passed during function initialization
-📌 Memory - Call Stack - where each function is stored in stack format
-📌 Call by value and Call by reference
-📌 Function Overloading - Functions with same number but with different parameters with different number of parameters or different datatypes of parameters
-Two functions with return type as int, float then they are not function overloading.
+Day 8 - Functions<br>
+📌 Actual Parameters - Passed during function call<br>
+📌 Formal Parameters - Passed during function initialization<br>
+📌 Memory - Call Stack - where each function is stored in stack format<br>
+📌 Call by value and Call by reference<br>
+📌 Function Overloading - Functions with same number but with different parameters with different number of parameters or different datatypes of parameters<br>
+📌 Two functions with return type as int, float then they are not doing function overloading.
