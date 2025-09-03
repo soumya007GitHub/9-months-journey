@@ -15,3 +15,9 @@ Day 5 - Loops in Java
 Day 6 - Patterns Exercise
 
 Day 7 - Covered Patterns Logic, Refer 007 - Patterns folder to see theory in Readme
+
+Day 8 - Functions
+Actual Parameters - Passed during function call
+Formal Parameters - Passed during function initialization
+Memory - Call Stack - where each function is stored in stack format
+Call by value and Call by reference
