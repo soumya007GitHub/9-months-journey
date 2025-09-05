@@ -23,3 +23,5 @@ Day 8 - Functions<br>
 📌 Call by value and Call by reference<br>
 📌 Function Overloading - Functions with same number but with different parameters with different number of parameters or different datatypes of parameters<br>
 📌 Two functions with return type as int, float then they are not doing function overloading.
+
+Day 9 - Advanced Patterns
