@@ -25,3 +25,5 @@ Day 8 - Functions<br>
 📌 Two functions with return type as int, float then they are not doing function overloading.
 
 Day 9 - Advanced Patterns
+
+Day 10 - Arrays
