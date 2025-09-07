@@ -29,3 +29,5 @@ public class LargestSmallest {
         System.out.println("Smallest : "+smallestNumber);
     }
 }
+
+// Time Complexity - O(n)
