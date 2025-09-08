@@ -16,3 +16,5 @@ public class SubArrays {
         }
     }
 }
+
+// number of sub-arrays = n(n+1)/2
