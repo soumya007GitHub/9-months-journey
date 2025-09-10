@@ -29,3 +29,5 @@ Day 9 - Advanced Patterns
 Day 10 - Arrays
 
 Day 11 - Array DSA Questions
+
+Day 12 - Questions on Array + Leetcode
