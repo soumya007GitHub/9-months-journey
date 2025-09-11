@@ -28,4 +28,6 @@ Day 9 - Advanced Patterns
 
 Day 10 - Arrays
 
-Day 11 - Array DSA Questions
+Day 11 - Array DSA Questions<br>
+Max Array Sum - Brute Force Method<br>
+Max Array Sum - Prefix Sum
