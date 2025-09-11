@@ -31,4 +31,5 @@ Day 10 - Arrays
 Day 11 - Array DSA Questions<br>
 Max Array Sum - Brute Force Method O(n^3)<br>
 Max Array Sum - Prefix Sum O(n^2)<br>
-Max Array Sum - Kadanes Algo Sum O(n)
+Max Array Sum - Kadanes Algo Sum O(n)<br>
+Trapped Rain Water - Using Auxiliary Arrays
