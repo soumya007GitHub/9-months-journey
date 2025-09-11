@@ -28,6 +28,12 @@ Day 9 - Advanced Patterns
 
 Day 10 - Arrays
 
+<<<<<<< HEAD
 Day 11 - Array DSA Questions<br>
 Max Array Sum - Brute Force Method<br>
 Max Array Sum - Prefix Sum
+=======
+Day 11 - Array DSA Questions
+
+Day 12 - Questions on Array + Leetcode
+>>>>>>> acbae09aca8d8407bf8f850503382c33e6b3f280
