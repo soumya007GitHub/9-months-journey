@@ -33,3 +33,6 @@ Max Array Sum - Brute Force Method O(n^3)<br>
 Max Array Sum - Prefix Sum O(n^2)<br>
 Max Array Sum - Kadanes Algo Sum O(n)<br>
 Trapped Rain Water - Using Auxiliary Arrays
+
+Day 12 - Adavanced Arrays<br>
+Distinct Elements in Array Check<br>
