@@ -41,5 +41,6 @@ Trapping Rain Water<br>
 Triplet Sum == 0<br>
 
 Day 13 - Sorting Algorithms<br>
-Bubble Sort (Worst Algo)<br>
-Selection Sort (Better Algo than Bubble)<br>
+Bubble Sort<br>
+Selection Sort<br>
+Insertion Sort
