@@ -47,3 +47,4 @@ Insertion Sort<br>
 In-Built Sorting - 
 1. Arrays.sort(arr)
 2. Decreasing Sorted Array - Arrays.sort(arr, Collections.reverseOrder()) - arr should be of Integer class not int datatype<br>
+Counting Sort (Array with repeating elements to be sorted)
