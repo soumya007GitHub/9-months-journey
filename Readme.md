@@ -50,4 +50,5 @@ In-Built Sorting -
 Counting Sort (Array with repeating elements to be sorted)
 
 Day 14 - 2D Arrays<br>
-
+Spiral Matrix<br>
+Diagonal Sum
