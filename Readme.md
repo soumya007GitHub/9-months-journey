@@ -57,3 +57,5 @@ Transpose Matrix
 
 Day 15 - Strings<br>
 Shortest Path Find<br>
+Largest String<br>
+Palindrome String<br>
