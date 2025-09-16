@@ -60,3 +60,6 @@ Shortest Path Find<br>
 Largest String<br>
 Palindrome String<br>
 String(immutable) StringBuilder(mutable)
+
+Day 16 - Strings 2<br>
+Counting number of variables<br>
