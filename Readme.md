@@ -63,3 +63,4 @@ String(immutable) StringBuilder(mutable)
 
 Day 16 - Strings 2<br>
 Counting number of variables<br>
+Anagrams Check
