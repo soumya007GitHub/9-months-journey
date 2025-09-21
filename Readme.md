@@ -66,3 +66,6 @@ Counting number of variables<br>
 Anagrams Check
 
 Day 17 - Bit Manipulation
+
+Day 18 - Strivers DSA<br>
+Topic Covered - Array
