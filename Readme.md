@@ -73,5 +73,7 @@ Day 19 - Recursion 1
 
 Day 20 - Recursion 2
 
+Day 27 - Covered Stack Intro with ArrayList and LinkedList.
+
 Strivers DSA<br>
 Topic Covered - Array
