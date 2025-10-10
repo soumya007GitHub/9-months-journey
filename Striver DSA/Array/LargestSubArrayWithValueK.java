@@ -18,14 +18,16 @@ public class LargestSubArrayWithValueK{
                     int tempLength = i - index;
                     max = Math.max(max, tempLength);
                 }
+                if(!map.containsKey(prefixSum)){
                 map.put(prefixSum, i);
+                }
             }
         }
             return max;
     }
     public static void main(String[] args) {
-        int nums[] = {10, 5, 2, 7, 1, 9};
-        int target = 15;
+        int nums[] = {2, 3, 1, 0, 0};
+        int target = 3;
         System.out.println(result(nums, target));
     }
 }
