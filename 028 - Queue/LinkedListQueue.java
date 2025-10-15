@@ -15,7 +15,7 @@ public class LinkedListQueue {
 
         public static void add(int data){
             Node newNode = new Node(data);
-            if(tail == null){
+            if(head == null){
                 tail = newNode;
                 head = newNode;
             }else{
