@@ -11,7 +11,8 @@ public class DequeIntro{
         System.out.println(d);
         d.removeFirst();
         System.out.println(d);
-        System.out.println(d.peek());
+        System.out.println(d.peekFirst());
+        System.out.println(d.peekLast());
         d.removeLast();
         System.out.println(d);
     }
