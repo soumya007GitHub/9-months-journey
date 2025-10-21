@@ -1,5 +1,4 @@
-public class PreOrderTraversal{
-
+public class PostOrderTraversal {
     public static class Node{
         int data;
         Node left;
@@ -29,9 +28,9 @@ public class PreOrderTraversal{
             if(root == null){
                 return;
             }
-            System.out.println(root.data);
             printVal(root.left);
             printVal(root.right);
+            System.out.println(root.data);
         }
     }
     public static void main(String args[]){
