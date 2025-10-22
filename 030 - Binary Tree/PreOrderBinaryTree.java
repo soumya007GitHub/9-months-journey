@@ -5,8 +5,8 @@ public class PreOrderBinaryTree {
         Node left;
         Node right;
 
-        Node(int data){
-            this.data = data;
+        Node(int val){
+            this.data = val;
             this.left = null;
             this.right = null;
         }
