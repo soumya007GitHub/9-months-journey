@@ -1,5 +1,5 @@
 public class PreOrderBinaryTree {
-
+    private static int count = 0;
     public static class Node{
         int data;
         Node left;
@@ -18,6 +18,7 @@ public class PreOrderBinaryTree {
                 return null;
             }
             Node obj = new Node(nums[index]);
+            ++count;
             obj.left = binaryTree(nums, ++index);
             obj.right = binaryTree(nums, ++index);
             return obj;
@@ -27,5 +28,6 @@ public class PreOrderBinaryTree {
         int nums[] = {10, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1};
         Tree obj = new Tree();
         System.out.println(obj.binaryTree(nums, 0).data);
+        System.out.println(count);
     }
 }
